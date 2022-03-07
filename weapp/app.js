@@ -16,6 +16,12 @@ App({
     const app = new WXApp("pages/index/index", engine);
     this.app = app;
     engine.start();
+    try {
+      // 为了防止 main.dart.js 和 mp-custom-components.js 被微信开发者工具过滤，在这里 require 一下。
+      if (1 + 1) return;
+      require("./main.dart");
+      require("./mp-custom-components");
+    } catch (error) {}
   },
   globalData: {},
 });
