@@ -2,6 +2,11 @@ name: mpflutter_template
 description: A new MPFlutter project.
 publish_to: "none"
 version: 1.0.0+1
+playbox:
+  name: 模板工程
+  description: 
+  icon: school
+  background: blue
 environment:
   sdk: ">=2.12.0 <3.0.0"
 dependencies:
