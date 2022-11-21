@@ -8,5 +8,9 @@
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json",
-  "darkmode": true
+  "darkmode": true,
+  "newFramework": {
+    "enabled": true,
+    "minimumSupportedVersion": "5.12"
+  }
 }

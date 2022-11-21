@@ -1,1 +1,1 @@
-const base=require("./base");Component({behaviors:[base],options:{addGlobalClass:!0}});
+const base=require("./base");Component({mixins:base.mixins,behaviors:[base],options:{addGlobalClass:!0}});
