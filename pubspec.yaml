@@ -10,11 +10,11 @@ playbox:
 environment:
   sdk: ">=2.12.0 <3.0.0"
 dependencies:
-  flutter: "0.18.1"
-  flutter_web_plugins: "0.18.1"
-  mpcore: "0.18.1"
-  mp_build_tools: "0.18.1"
+  flutter: "0.18.2"
+  flutter_web_plugins: "0.18.2"
+  mpcore: "0.18.2"
+  mp_build_tools: "0.18.2"
 dependency_overrides:
-  flutter: "0.18.1"
-  mpcore: "0.18.1"
-  flutter_web_plugins: "0.18.1"
+  flutter: "0.18.2"
+  mpcore: "0.18.2"
+  flutter_web_plugins: "0.18.2"
