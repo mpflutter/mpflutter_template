@@ -8,13 +8,13 @@ playbox:
   icon: school
   background: blue
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: ">=2.18.0 <4.0.0"
 dependencies:
-  flutter: "1.2.0"
-  flutter_web_plugins: "1.2.0"
-  mpcore: "1.2.0"
-  mp_build_tools: "1.2.0"
+  flutter: "1.3.0"
+  flutter_web_plugins: "1.3.0"
+  mpcore: "1.3.0"
+  mp_build_tools: "1.3.0"
 dependency_overrides:
-  flutter: "1.2.0"
-  mpcore: "1.2.0"
-  flutter_web_plugins: "1.2.0"
+  flutter: "1.3.0"
+  mpcore: "1.3.0"
+  flutter_web_plugins: "1.3.0"

@@ -77,18 +77,18 @@ packages:
     dependency: "direct main"
     description:
       name: flutter
-      sha256: "1f165d8199dcae5192b9ecb011844f604f55e926f9fea3a4330af1a4ff0fe0f5"
+      sha256: b5252b8ea8975dfb145a490535580cc1132f2b74de33c45a339af6f3ae0296e8
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "1.2.0"
+    version: "1.3.0"
   flutter_web_plugins:
     dependency: "direct main"
     description:
       name: flutter_web_plugins
-      sha256: "1fe47278fdbb4497ae29330cecb47651b18992d468bbf894fe715f26404a190e"
+      sha256: bfcdbeb555f842da7b1c4b0c73fccc6b8eb49bde40fe1fdd31597f9ae94a12fa
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "1.2.0"
+    version: "1.3.0"
   glob:
     dependency: transitive
     description:
@@ -113,14 +113,6 @@ packages:
       url: "https://pub.mpflutter.com"
     source: hosted
     version: "4.0.0"
-  json_patch:
-    dependency: transitive
-    description:
-      name: json_patch
-      sha256: "3c567cdf26dd594b220bae1ee7b1f044d2470c61ac43d2bdd9cc7dd33eebc111"
-      url: "https://pub.mpflutter.com"
-    source: hosted
-    version: "2.1.1"
   meta:
     dependency: transitive
     description:
@@ -141,18 +133,18 @@ packages:
     dependency: "direct main"
     description:
       name: mp_build_tools
-      sha256: b177692a7bf70711ae9e902e5071c55075ef0b1b4b64c73b1e222fa6bf829c10
+      sha256: db5705f48c5e41e58d5bfd87961edea3b1a3357f60b59375485d738a72c4f3ba
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "1.2.0"
+    version: "1.3.0"
   mpcore:
     dependency: "direct main"
     description:
       name: mpcore
-      sha256: "05362dda142d52e28b34916d56c54dbb44f56dad3af0a079b9748410e76d5e61"
+      sha256: a0ff7c6a29d758a04a5310b5f725f77f7babddf1d1efefbfdfb42ea4cd61109a
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "1.2.0"
+    version: "1.3.0"
   path:
     dependency: transitive
     description:
@@ -229,10 +221,10 @@ packages:
     dependency: transitive
     description:
       name: watcher
-      sha256: e42dfcc48f67618344da967b10f62de57e04bae01d9d3af4c2596f3712a88c99
+      sha256: "3d2ad6751b3c16cf07c7fca317a1413b3f26530319181b37e3b9039b84fc01d8"
       url: "https://pub.mpflutter.com"
     source: hosted
-    version: "1.0.1"
+    version: "1.1.0"
   win32:
     dependency: transitive
     description:
@@ -242,4 +234,4 @@ packages:
     source: hosted
     version: "2.6.0"
 sdks:
-  dart: ">=2.18.0 <3.0.0"
+  dart: ">=3.0.0 <4.0.0"
